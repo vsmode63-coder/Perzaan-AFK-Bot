@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "NEGASTRO.aternos.me",
+    "port": 24213,
+    "version": "1.21.90.4"
   },
   "position": {
     "enabled": true,
